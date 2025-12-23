@@ -1,0 +1,20 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    identifier: opyD2-dj
+    url: /
+    weight: 10
+  - name: Topics
+    identifier: ZESrdndY
+    url: tags/
+    weight: 20
+  - name: Uses
+    identifier: tiEGme4T
+    url: uses/
+    weight: 30
+  - name: Others
+    identifier: others
+    url: /others/
+    weight: 40
