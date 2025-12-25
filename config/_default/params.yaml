@@ -5,6 +5,7 @@ hugoblox:
     type: person
     tagline: AI Resercher | SII
     description: "1"
+    favicon: "/media/icon.png"
   theme:
     mode: system
     pack: default

@@ -16,5 +16,5 @@ main:
     weight: 30
   - name: Others
     identifier: others
-    url: /others/
+    url: others/
     weight: 40

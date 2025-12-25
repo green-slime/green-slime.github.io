@@ -3,6 +3,7 @@ title: "文章标题"
 date: 2025-12-23T00:00:00Z
 summary: "这是显示在列表页或卡片上的简短介绍。"
 draft: false
+type: post
 authors:
   - admin
 tags:
