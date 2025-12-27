@@ -5,6 +5,7 @@ hide_date: true
 reading_time: false
 authors:
     - me
+share: false
 ---
 
 The idea of a Uses page is to tell you about the stuff I use.
