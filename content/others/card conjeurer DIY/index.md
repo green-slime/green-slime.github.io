@@ -2,7 +2,7 @@
 title: "Card Conjuerer card DIY."
 date: 2025-12-27T00:00:00Z
 summary: "这是显示在列表页或卡片上的简短介绍。"
-draft: true
+draft: false
 type: post
 authors:
   - me
